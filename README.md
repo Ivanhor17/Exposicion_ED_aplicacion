@@ -1,6 +1,6 @@
 # WHATSAPP
 
-![Imagen cabecera Whatsapp](https://www.tacoselpata.com/images/pop-whatsapp-facturacion.png)[5]
+![Imagen cabecera Whatsapp](https://www.tacoselpata.com/images/pop-whatsapp-facturacion.png)
 
 ## Introducción
 
@@ -11,7 +11,8 @@ Lanzada en 2009, WhatsApp ha experimentado un crecimiento significativo en su ba
 Además de las funciones básicas de mensajería, WhatsApp ofrece la posibilidad de crear grupos, compartir ubicaciones en tiempo real, actualizar estados con fotos y videos, y realizar llamadas de voz y video de alta calidad. La aplicación también ha implementado medidas de seguridad, como el cifrado de extremo a extremo, para garantizar la privacidad de las conversaciones.
 
 En resumen, WhatsApp se ha convertido en una herramienta esencial para millones de personas en todo el mundo, transformando la forma en que se comunican y conectan en la era digital.
-
+# Ventajas y Desventajas
+![Imagen Ventjas y Desventajas](https://marketingonline.gratis/wp-content/uploads/2021/12/ventajas-y-desventajas-png.png)
 ## Ventajas
 
 1. Comunicación Instantánea: WhatsApp permite la comunicación en tiempo real, lo que facilita la respuesta rápida a mensajes y la interacción inmediata.
@@ -28,6 +29,22 @@ En resumen, WhatsApp se ha convertido en una herramienta esencial para millones 
 
 1. Plataforma Versátil: Funciona en una variedad de dispositivos, incluyendo teléfonos inteligentes y computadoras, facilitando su uso en diferentes contextos.
 
-## 
+## Desventajas
 
-¿Cómo instalarlo?
+1. Dependencia de Internet: WhatsApp requiere una conexión a Internet para funcionar, lo que puede ser un inconveniente en áreas con conectividad limitada.
+
+1. Privacidad y Seguridad: Aunque cuenta con cifrado de extremo a extremo, algunos usuarios pueden preocuparse por la privacidad de sus datos, especialmente considerando la propiedad de WhatsApp por Facebook.
+
+1. Limitaciones en Archivos Adjuntos: Existe un límite en el tamaño de los archivos que se pueden enviar, lo que puede ser restrictivo al compartir archivos grandes.
+
+1. Contacto con Desconocidos: En algunos casos, los usuarios pueden recibir mensajes no deseados o ser añadidos a grupos sin su consentimiento.
+
+1. Consumo de Datos: El uso constante de WhatsApp puede llevar a un consumo significativo de datos móviles, lo que puede ser costoso para aquellos con planes de datos limitados.
+
+1. Posible Distracción: La constante recepción de mensajes y notificaciones puede ser una distracción en entornos laborales o académicos.
+
+1. Actualizaciones y Cambios: Al ser una aplicación en constante evolución, algunas actualizaciones pueden introducir cambios que no son bien recibidos por todos los usuarios.
+
+# ¿Cómo instalarlo?
+
+## En Android 
