@@ -12,9 +12,8 @@ Además de las funciones básicas de mensajería, WhatsApp ofrece la posibilidad
 
 En resumen, WhatsApp se ha convertido en una herramienta esencial para millones de personas en todo el mundo, transformando la forma en que se comunican y conectan en la era digital.
 # Ventajas y Desventajas
-![Imagen Ventjas y Desventajas](https://marketingonline.gratis/wp-content/uploads/2021/12/ventajas-y-desventajas-png.png)
 ## Ventajas
-
+![Imagen Ventjas ](https://th.bing.com/th/id/R.b316a052ec1256b77ca69aba5b9f16fd?rik=pkkOKf1bIIqshg&riu=http%3a%2f%2fwww.etpaguatemala.com%2fImages%2fventaja.png&ehk=hNePGTqF1LZbmYhYcDiDeHGE6YJLnKdwRZTmdzpo8Mo%3d&risl=&pid=ImgRaw&r=0)
 1. Comunicación Instantánea: WhatsApp permite la comunicación en tiempo real, lo que facilita la respuesta rápida a mensajes y la interacción inmediata.
 
 1. Multimedia: Los usuarios pueden compartir una variedad de archivos multimedia, como fotos, videos y documentos, de manera sencilla.
@@ -30,7 +29,7 @@ En resumen, WhatsApp se ha convertido en una herramienta esencial para millones 
 1. Plataforma Versátil: Funciona en una variedad de dispositivos, incluyendo teléfonos inteligentes y computadoras, facilitando su uso en diferentes contextos.
 
 ## Desventajas
-
+![Imagen Desventjas ](https://th.bing.com/th/id/R.b928241e9a58e7bc4c26896ac3840fdc?rik=cC%2fyJmHCm25g2g&riu=http%3a%2f%2fuserscontent2.emaze.com%2fimages%2fe849d2db-f7f3-4a68-8286-e063b653ab85%2f8bb587d1-90bb-41a3-a300-37a1875ea846.png&ehk=WKkRyKmTdSFxhnZMNWqkiM%2biwsE5zAEP55kvBIR7W0U%3d&risl=&pid=ImgRaw&r=0)
 1. Dependencia de Internet: WhatsApp requiere una conexión a Internet para funcionar, lo que puede ser un inconveniente en áreas con conectividad limitada.
 
 1. Privacidad y Seguridad: Aunque cuenta con cifrado de extremo a extremo, algunos usuarios pueden preocuparse por la privacidad de sus datos, especialmente considerando la propiedad de WhatsApp por Facebook.
