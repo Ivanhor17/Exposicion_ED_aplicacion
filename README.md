@@ -1,6 +1,6 @@
 # WHATSAPP
 
-![Imagen cabecera Whatsapp](https://www.tacoselpata.com/images/pop-whatsapp-facturacion.png)
+![Imagen cabecera Whatsapp](https://clipground.com/images/clipart-whatsapp-logo-5.png)
 
 ## Introducción
 
@@ -30,6 +30,7 @@ En resumen, WhatsApp se ha convertido en una herramienta esencial para millones 
 
 ## Desventajas
 ![Imagen Desventjas ](https://th.bing.com/th/id/R.b928241e9a58e7bc4c26896ac3840fdc?rik=cC%2fyJmHCm25g2g&riu=http%3a%2f%2fuserscontent2.emaze.com%2fimages%2fe849d2db-f7f3-4a68-8286-e063b653ab85%2f8bb587d1-90bb-41a3-a300-37a1875ea846.png&ehk=WKkRyKmTdSFxhnZMNWqkiM%2biwsE5zAEP55kvBIR7W0U%3d&risl=&pid=ImgRaw&r=0)
+
 1. Dependencia de Internet: WhatsApp requiere una conexión a Internet para funcionar, lo que puede ser un inconveniente en áreas con conectividad limitada.
 
 1. Privacidad y Seguridad: Aunque cuenta con cifrado de extremo a extremo, algunos usuarios pueden preocuparse por la privacidad de sus datos, especialmente considerando la propiedad de WhatsApp por Facebook.
