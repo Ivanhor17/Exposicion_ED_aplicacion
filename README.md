@@ -1,50 +1,27 @@
-# Exposicion_ED_aplicacion
+# WHATSAPP
 
+![Imagen cabecera Whatsapp](https://th.bing.com/th/id/OIP.lbnxE2N2ka7limy5hAw89wHaHa?rs=1&pid=ImgDetMain)
 
-Artículo destacado
-You'll See
-You'll See
-«You'll See» es una canción interpretada por la cantante estadounidense Madonna, incluida en su álbum recopilatorio de baladas Something to Remember (1995). Dicho disco se concibió con el propósito de atenuar la imagen de la cantante tras un período de controversias que habían perjudicado su carrera a principios de la década de 1990 y, de esa manera, que el público y la crítica prestaran más atención a la música en lugar de sus polémicas y vida personal. Para ello, contactó al compositor y productor canadiense David Foster, con quien desarrolló dos canciones nuevas para el disco, entre ellas «You'll See», durante el tercer fin de semana de septiembre de 1995. Poco tiempo después, ambos volvieron a trabajar juntos para grabar una versión en español de la canción; titulada «Verás», la adaptación estuvo a cargo del cantautor argentino Paz Martínez, quien se encontraba en México cuando fue contactado por la discográfica de Madonna para informarle que requerían una versión del tema en dicho idioma. La artista grabó la adaptación en el estudio Crescent Moon de Gloria y Emilio Estefan en Miami.
+## Introducción
 
-Descrita como «melodramática» y «cinematográfica», «You'll See» es una balada pop que combina varios instrumentos como el piano, la guitarra, cuerdas sintetizadas, el violonchelo y la batería. Madonna empleó un registro más agudo gracias a las técnicas que había aprendido durante las clases de canto para su papel protagónico de Eva Perón en la película Evita (1996). La letra aborda los temas del empoderamiento y la independencia tras el fin de una relación amorosa, en la que una mujer se despide de una relación frágil y dañina y toma control de su propia vida. La canción se estrenó el 18 de octubre de 1995 en el foro de radios del sitio web oficial de Warner Bros. Records como el sencillo principal del recopilatorio. Cinco días después, salió a la venta de manera comercial en el Reino Unido a través de las compañías Maverick, Sire y Warner Bros; en Japón, se publicó el 17 de noviembre, mientras que en el resto de los países el lanzamiento físico ocurrió cuatro días después, el 21. Maverick y Warner Music Latina también editaron un CD promocional de «Verás» exclusivamente para el mercado latinoamericano.
+**WhatsApp** es una aplicación de mensajería instantánea ampliamente utilizada en todo el mundo que permite a los usuarios enviar mensajes de texto, realizar llamadas de voz y video, compartir archivos multimedia y mantenerse en contacto con amigos, familiares y colegas de manera rápida y eficiente. Desarrollada por WhatsApp Inc. y adquirida por Facebook en 2014, la aplicación se ha convertido en una herramienta indispensable para la comunicación cotidiana.
 
-Leer
-Todos los artículos destacados
-Acciones adicionales
-Artículo bueno
-Renio
-El renio —de Rhenus, nombre latino del Rin— es un elemento químico, de número atómico 75, que se encuentra en el grupo 7 de la tabla periódica de los elementos y cuyo símbolo es Re, descubierto en 1925 por tres científicos alemanes. Es un metal de transición de color blanco-plata, sólido, refractario y resistente a la corrosión, muy utilizado en joyería y como catalizador. Sus propiedades químicas son muy parecidas a las del manganeso, es muy escaso en la corteza terrestre y se obtiene principalmente a partir de minerales de molibdeno.
+Lanzada en 2009, WhatsApp ha experimentado un crecimiento significativo en su base de usuarios, gracias a su interfaz fácil de usar y su capacidad para funcionar en una variedad de dispositivos, incluidos teléfonos inteligentes y computadoras. La plataforma utiliza la conexión a Internet para facilitar la comunicación, lo que elimina la necesidad de mensajes de texto tradicionales y llamadas telefónicas costosas.
 
-Leer
-Todos los artículos buenos
-Acciones adicionales
-Recurso del día
-Playa Grand Anse
-Playa Grand Anse
-Vista de la playa Grand Anse, en la isla de La Digue (Seychelles).
+Además de las funciones básicas de mensajería, WhatsApp ofrece la posibilidad de crear grupos, compartir ubicaciones en tiempo real, actualizar estados con fotos y videos, y realizar llamadas de voz y video de alta calidad. La aplicación también ha implementado medidas de seguridad, como el cifrado de extremo a extremo, para garantizar la privacidad de las conversaciones.
 
-Archivo
-Portales
-Artes
-Artes: Arquitectura – Cine – Danza – Literatura – Música – Música clásica – Pintura – Teatro
+En resumen, WhatsApp se ha convertido en una herramienta esencial para millones de personas en todo el mundo, transformando la forma en que se comunican y conectan en la era digital.
 
-Ciencias sociales
-Ciencias sociales: Comunicación – Deporte – Derecho – Economía – Filosofía – Lingüística – Psicología – Sociología
+1. Comunicación Instantánea: WhatsApp permite la comunicación en tiempo real, lo que facilita la respuesta rápida a mensajes y la interacción inmediata.
 
-Ciencias naturales
-Ciencias naturales: Astronomía – Biología – Botánica – Física – Medicina – Matemática – Química
+1. Multimedia: Los usuarios pueden compartir una variedad de archivos multimedia, como fotos, videos y documentos, de manera sencilla.
 
-Geografía
-Geografía: África – América – Antártida – Asia – Europa – Oceanía – Países
+1. Llamadas y Videollamadas: Ofrece funciones de llamadas de voz y videollamadas, lo que permite a los usuarios realizar conversaciones más interactivas y personales.
 
-Historia
-Historia: Prehistoria – Edad Antigua – Edad Media – Edad Moderna – Edad Contemporánea
+1. Grupos: WhatsApp permite la creación de grupos, lo que facilita la comunicación con varias personas a la vez.
 
-Política
-Política: Feminismo – LGBT – Marxismo – Nacionalismo – Socialismo – Terrorismo
+1. Ubicación en Tiempo Real: Puedes compartir tu ubicación en tiempo real con amigos o familiares, lo que es útil para coordinar encuentros.
 
-Religión
-Religión: Ateísmo – Budismo – Cristianismo – Iglesia católica – Islam – Judaísmo – Mitología
+1. Cifrado de Extremo a Extremo: WhatsApp implementa cifrado de extremo a extremo, lo que significa que los mensajes están protegidos y solo pueden ser leídos por el remitente y el destinatario.
 
-Tecnologías
-Tecnologías: Biotecnología – Exploración espacial – Informática – Ingeniería – Software libre – Videojuegos
+1. Plataforma Versátil: Funciona en una variedad de dispositivos, incluyendo teléfonos inteligentes y computadoras, facilitando su uso en diferentes contextos.
