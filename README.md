@@ -126,8 +126,7 @@ Usar WhatsApp es bastante sencillo, ya que la aplicación ha sido diseñada para
 
  Recuerda que WhatsApp se actualiza regularmente, por lo que algunas funciones o la apariencia de la aplicación pueden cambiar con el tiempo. Consulta la sección de Ayuda dentro de la aplicación o el sitio web oficial de WhatsApp para obtener información detallada y actualizada sobre el uso de la aplicación.
 
-## Como usar Whatsapp video : 
-# Video  de como instalar Whatsapp
+# Video  de como usar Whatsapp 
 <a href="https://www.youtube.com/watch?v=GeZn-ETiacs" target="_blank"><img src="https://clipground.com/images/clipart-whatsapp-logo-5.png"
 alt="Whatsapp" width="245" height="185" style="position: relative; 
 left: 200px; top: 10px;" /></a>
