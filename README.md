@@ -91,3 +91,43 @@ En resumen, WhatsApp se ha convertido en una herramienta esencial para millones 
 alt="Whatsapp" width="245" height="185" style="position: relative; 
 left: 200px; top: 10px;" /></a>
 
+# Como usar Whatsapp
+Usar WhatsApp es bastante sencillo, ya que la aplicación ha sido diseñada para ser intuitiva y fácil de usar. Aquí tienes una guía básica sobre cómo utilizar WhatsApp:
+
+1. Descargar e Instalar: 
+- Descarga la aplicación desde la tienda de aplicaciones de tu dispositivo (Google Play Store para Android, App Store para iOS).
+- Instala la aplicación siguiendo las instrucciones proporcionadas.
+2.  Configuración Inicial:
+- Abre la aplicación después de la instalación.
+- Ingresa tu número de teléfono y sigue las instrucciones para verificar tu identidad mediante un código que recibirás por SMS.
+3. Configuración de Perfil:
+- Después de la verificación, podrás configurar tu nombre y añadir una foto de perfil.
+4.  Interfaz Principal:
+- En la interfaz principal de WhatsApp, verás tus chats recientes y opciones para realizar llamadas y videollamadas en la parte superior.
+5.  Iniciar un Chat: 
+- Para iniciar un nuevo chat, toca el ícono de mensaje en la esquina inferior derecha.
+- Selecciona un contacto de tu lista o ingresa un número de teléfono para enviar un mensaje.
+6. Enviar Mensajes:
+- En la ventana de chat, escribe tu mensaje en el área de texto y presiona el botón de enviar.
+7. adjuntar archivos:
+- Puedes adjuntar archivos multimedia, como fotos y videos, tocando el ícono de clip.
+- También puedes enviar documentos, ubicaciones y contactos.
+8. Llamadas y videollamadas:
+- Para realizar una llamada, selecciona el contacto y toca el ícono de teléfono.
+- Para videollamadas, toca el ícono de cámara durante una llamada.
+9. Crear Grupos:
+- Toca el ícono de menú (generalmente tres puntos verticales) y selecciona "Nuevo grupo" para crear un grupo de chat.
+10. Configuración Adicional: 
+- Explora la sección de configuración para personalizar opciones como notificaciones, privacidad, y ajustes de cuenta.
+11. Actualizaciones de Estado:
+- Puedes compartir actualizaciones de estado (fotos o videos que desaparecen después de 24 horas) tocando en la pestaña de "Estado".
+ 12. Uso en WhatsApp Web:
+ - Si lo prefieres, puedes usar WhatsApp Web para acceder a tus mensajes desde un navegador en tu computadora.
+
+ Recuerda que WhatsApp se actualiza regularmente, por lo que algunas funciones o la apariencia de la aplicación pueden cambiar con el tiempo. Consulta la sección de Ayuda dentro de la aplicación o el sitio web oficial de WhatsApp para obtener información detallada y actualizada sobre el uso de la aplicación.
+
+## Como usar Whatsapp video : 
+# Video  de como instalar Whatsapp
+<a href="https://www.youtube.com/watch?v=GeZn-ETiacs" target="_blank"><img src="https://clipground.com/images/clipart-whatsapp-logo-5.png"
+alt="Whatsapp" width="245" height="185" style="position: relative; 
+left: 200px; top: 10px;" /></a>
