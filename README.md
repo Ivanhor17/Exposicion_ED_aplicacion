@@ -1,6 +1,6 @@
 # WhatsApp
 
-<img src="https://clipground.com/images/clipart-whatsapp-logo-5.png" alt="Imagen cabecera Whatsapp" style="position: relative; left: 200px; top: 10px;" width="200" height="240">
+<img src="https://clipground.com/images/clipart-whatsapp-logo-5.png" alt="Imagen cabecera Whatsapp" style="position: relative; left: 200px; top: 10px;" width="205" height="245">
 
 
 ## Introducción
@@ -88,6 +88,6 @@ En resumen, WhatsApp se ha convertido en una herramienta esencial para millones 
 
 # Video  de como instalar Whatsapp
 <a href="https://youtube.com/watch?v=bbYdCSCsFBM" target="_blank"><img src="https://clipground.com/images/clipart-whatsapp-logo-5.png"
-alt="Whatsapp" width="240" height="180" style="position: relative; 
+alt="Whatsapp" width="245" height="185" style="position: relative; 
 left: 200px; top: 10px;" /></a>
 
