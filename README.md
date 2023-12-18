@@ -130,7 +130,9 @@ Usar **WhatsApp** es bastante sencillo, ya que la aplicación ha sido diseñada 
 
 # Video  de como usar **Whatsapp** 
 <p align="center">
-  <img src="https://img.youtube.com/vi/GeZn-ETiacs/0.jpg" alt="Video Demo" />
+  <a href="https://www.youtube.com/watch?v=GeZn-ETiacs&t=10s">
+    <img src="https://img.youtube.com/vi/GeZn-ETiacs/0.jpg" alt="como usar Whatsapps"/>
+  </a>
 </p>
 
 ## Contribuciones
