@@ -91,6 +91,8 @@ En resumen, **WhatsApp** se ha convertido en una herramienta esencial para millo
 alt="Whatsapp" width="245" height="185" style="position: relative; 
 left: 200px; top: 10px;" /></a>
 
+                              (cambiar imagen por video)
+
 # Como usar **Whatsapp**
 Usar **WhatsApp** es bastante sencillo, ya que la aplicación ha sido diseñada para ser intuitiva y fácil de usar. Aquí tienes una guía básica sobre cómo utilizar **WhatsApp**:
 
@@ -130,3 +132,5 @@ Usar **WhatsApp** es bastante sencillo, ya que la aplicación ha sido diseñada 
 <a href="https://www.youtube.com/watch?v=GeZn-ETiacs" target="_blank"><img src="https://clipground.com/images/clipart-whatsapp-logo-5.png"
 alt="Whatsapp" width="245" height="185" style="position: relative; 
 left: 200px; top: 10px;" /></a>
+
+                              (Cambiar imagen por video)
