@@ -23,7 +23,7 @@ En resumen, **WhatsApp** se ha convertido en una herramienta esencial para millo
 
 1. *Llamadas y Videollamadas*: Ofrece funciones de llamadas de voz y videollamadas, lo que permite a los usuarios realizar conversaciones más interactivas y personales.
 
-1. *Grupos*: **WhatsApp**permite la creación de grupos, lo que facilita la comunicación con varias personas a la vez.
+1. *Grupos*: **WhatsApp** permite la creación de grupos, lo que facilita la comunicación con varias personas a la vez.
 
 1. *Ubicación en Tiempo Real*: Puedes compartir tu ubicación en tiempo real con amigos o familiares, lo que es útil para coordinar encuentros.
 
